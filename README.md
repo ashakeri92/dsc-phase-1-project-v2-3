@@ -35,7 +35,6 @@ Visual 1 shows that the film industry is already saturated with action, adventur
 
 ### Visual 2
 
-
 ![graph2](./images/image2.png)
 
 We can see from Visual 2 that action, adventure, and animation films had the highest profits among the other film genres. 
