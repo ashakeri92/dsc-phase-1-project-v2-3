@@ -59,8 +59,6 @@ For any additional questions, please contact Armun Shakeri ashakeri62@gmail.com
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
 ├── data 
 ├── images 
