@@ -29,15 +29,21 @@ These models can definetly be generealized beyond the data presented. There is a
 
 ### Visual 1
 
-![graph1](./images/image1.png)
+![graph1](./images/Image1.png)
 
-Visual 1 shows that the film industry is already saturated with action, adventure, and sci fi films. In order for Microsoft Studios to differentiate itself from its competitors they should look into producing a film that is still in high demand but also not a genre that is mass produced. 
+Visual 1 shows the movie production budgets of top films. Since the average of successful films is $170,000,000 we will need to implement a higher production budget of $200,000,000 to assure the movies success. c 
 
 ### Visual 2
 
 ![graph2](./images/Image2.png)
 
-We can see from Visual 2 that action, adventure, and animation films had the highest profits among the other film genres. 
+Visual 2 shows that family movies are highest grossing. Based on these figures, for Microsoft's initial film we want a movie rating of PG-13. 
+
+### Visual 3
+
+![graph2](./images/Image3.png)
+
+Visual 3 shows that Action, Adventure, Animation film genre is the highest grossing by a fairly wide margin. We want Microsoft's first film to have this genre due to it's popularity and profitability. 
 
 
 ## Conclusions
@@ -48,7 +54,7 @@ The following below are three reccomendations for Microsoft Studio's first film:
 
 2) The film's genre should be action, adventure, and animation. Having aspects of several genres will help the film attract a larger audience.
 
-3) The film should be a family type of movie. Genres that contain aspects of action, adventure, and animation  are also geard more towards the family demographic, and like point #2 if the film is geared strictly for an older audience it will have a smaller target audience. Our goal is for Microsoft's first movie to to have a broad target audience.
+3) The film should be a family type of movie, with specifically a PG-13 rating. Genres that contain aspects of action, adventure, and animation  are also geard more towards the family demographic, and like point #2 if the film is geared strictly for an older audience it will have a smaller target audience. Our goal is for Microsoft's first movie to to have a broad target audience.
 
 
 ## For More Information
