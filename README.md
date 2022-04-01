@@ -70,7 +70,6 @@ For any additional questions, please contact Armun Shakeri ashakeri62@gmail.com
 ├── images 
 ├── zippedData
 ├── analysis.ipynb 
-├── student.ipynb
 ├── CONTRIBUTING.md                      
 ├── data.sqlite                              
 ├── DS_Project_Presentation.pdf         
