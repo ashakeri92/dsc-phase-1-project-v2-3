@@ -31,7 +31,7 @@ These models can definetly be generealized beyond the data presented. There is a
 
 ![graph1](./images/image1.png)
 
-Visual 1 shows the movie production budgets of top films. Since the average of successful films is $170,000,000 we will need to implement a higher production budget of $200,000,000 to assure the movies success. c 
+Visual 1 shows the movie production budgets of top films. Since the average of successful films is $170,000,000 we will need to implement a higher production budget of $200,000,000 to assure the movies success. 
 
 ### Visual 2
 
